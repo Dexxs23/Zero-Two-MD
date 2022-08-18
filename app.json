@@ -13,7 +13,7 @@
   },
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ikshwaku Pandey"
+      "value": "Kakashi xy"
   },
    "SESSION_ID": {
 
@@ -22,14 +22,14 @@
   },
   "BOT_OWNER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "491621612964"
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required)"
   },
     "LANGUAGE": {
     "description": "Language you want to use, please enter correct lang code.only english version avilable for now. Use EN-English, SP-Spanish Hi-Hindi.",
-     "value": "EN"
+     "value": "DE"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
